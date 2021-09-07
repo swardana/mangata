@@ -73,6 +73,9 @@
         <nexus.staging.version>1.6.8</nexus.staging.version>
         <checkstyle.version>8.36</checkstyle.version>
 
+        <!-- dependencies -->
+        <jfx.version>16</jfx.version>
+
         <!-- test dependencies -->
         <junit.jupiter.version>5.7.1</junit.jupiter.version>
         <junit.jupiter.params.version>5.7.1</junit.jupiter.params.version>
@@ -105,6 +108,12 @@
                 <artifactId>mockito-core</artifactId>
                 <version>${mockito.version}</version>
                 <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.openjfx</groupId>
+                <artifactId>javafx-controls</artifactId>
+                <version>${jfx.version}</version>
+                <scope>provided</scope>
             </dependency>
         </dependencies>
     </dependencyManagement>
