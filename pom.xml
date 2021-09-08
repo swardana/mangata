@@ -85,6 +85,7 @@
 
     <modules>
         <module>mangata-base</module>
+        <module>mangata-metro</module>
     </modules>
 
     <dependencyManagement>
