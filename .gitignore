@@ -39,6 +39,7 @@ nb-configuration.xml
 # Maven
 MavenWrapperDownloader.java
 target
+dependency-reduced-pom.xml
 
 # Java Flight Recorder
 *.jfr
