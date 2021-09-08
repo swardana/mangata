@@ -7,3 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Material Designs Icon Font version 4.0.0.
+- Metro UI Icon Font version 4.4.3.
+- JavaFX Icon Font UI Control.
