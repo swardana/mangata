@@ -83,6 +83,10 @@
         <mockito.version>3.9.0</mockito.version>
     </properties>
 
+    <modules>
+        <module>mangata-base</module>
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
